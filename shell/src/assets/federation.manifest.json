@@ -1,0 +1,4 @@
+{
+  "mfe-react": "http://localhost:3001/remoteEntry.json",
+  "mfe-angular": "http://localhost:4201/remoteEntry.json"
+}
